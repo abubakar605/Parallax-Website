@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  height: 100%;
+  background-color:#313534 ;
+}
+.img1 {
+  margin: 0;
+  padding: 0;
+  background-image: url(./image/image1.png);
+  min-height: 100%;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 800px;
+}
+.txt1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 450px;
+  padding-left: 100px;
+}
+
+.text1 {
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+  background-color: #313534;
+  width: 600px;
+  height: 70px;
+}
+.secone {
+  text-align: center;
+}
+.text2 {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  text-align: justify;
+  margin-bottom: 70px;
+  color: #a7aaa9;
+}
+.img2 {
+  margin: 0;
+  padding: 0;
+  background-image: url(./image/image2.png);
+  min-height: 400px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-top: 400px;
+}
+.txt3 {
+  width: 350px;
+  height: 80px;
+  align-items: center;
+  display: flex;
+  box-shadow: 5px 5px 5px 5px black;
+  justify-content: center;
+  background-color: #000 transparent;
+  margin-left: 600px;
+  color: #fff;
+  border: 1px solid black;
+}
+.sectwo {
+  text-align: center;
+}
+.text3 {
+  height: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  text-align: justify;
+  margin-bottom: 70px;
+  color: #a7aaa9;
+}
+.txt4 {
+  background-color: #313534;
+  padding-top: 40px;
+}
+.img3{
+    margin: 0;
+    padding: 0;
+    background-image: url(./image/image3.png);
+    min-height: 300px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
+.txt5{
+    width: 450px;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    box-shadow: 5px 5px 5px 5px black;
+    justify-content: center;
+    background-color: #000 transparent;
+    margin-left: 600px;
+    color: #fff;
+    border: 1px solid black;
+    font-size: 20px;
+}
